@@ -1,0 +1,4 @@
+area_level,source_id,file_name,commodity,subcom
+จังหวัด,SRC-02,oil_palm_production_province.xlsx,ปาล์มน้ำมัน,ปาล์มน้ำมัน
+ประเทศ,SRC-02,oil_palm_production_wholecountry.xlsx,ปาล์มน้ำมัน,ปาล์มน้ำมัน
+ภาค (4 ภาคของ สศก.),SRC-02,oil_palm_production_region.xlsx,ปาล์มน้ำมัน,ปาล์มน้ำมัน

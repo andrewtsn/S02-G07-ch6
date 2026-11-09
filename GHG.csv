@@ -1,0 +1,4 @@
+source_id,stage,source_location,raw_row_id,stage_source,value_source,note
+SRC-04,ขนส่งผลปาล์ม,ตารางที่ 3,2,Transport (FFB),67,
+SRC-04,ปลูก,ตารางที่ 3,1,Oil palm plantation,548,
+SRC-04,สกัด,ตารางที่ 3,3,Palm oil milling,578,ค่าขั้นการสกัดเกือบทั้งหมดมาจากมีเทนของบ่อบำบัด POME แบบเปิด (หัวข้อ 3.2.1)

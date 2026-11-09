@@ -1,0 +1,2 @@
+source_id,source_location,unit_source,basis_object,basis_amount,basis_unit,lcia_method,allocation_method,method_reference
+SRC-04,ตารางที่ 3,kg CO2 eq,ไบโอดีเซล,1000,L,CML 2,ปันส่วนตามมูลค่าทางเศรษฐกิจ (economic allocation),SRC-04 หัวข้อ 2.1 (CML 2) และหัวข้อ 2.3.2 (การปันส่วน)

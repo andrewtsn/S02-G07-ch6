@@ -1,0 +1,44 @@
+item_id,source_id,flow_name,source_location,flow_name_source,flow_group_source,unit_source,basis_object,basis_amount,basis_unit
+I001,SRC-01,ปุ๋ย N,ตารางที่ 3,N-fertilizer,,kg,ผลปาล์มทะลายสด,1,t
+I002,SRC-01,ปุ๋ย P,ตารางที่ 3,P-fertilizer,,kg,ผลปาล์มทะลายสด,1,t
+I003,SRC-01,ปุ๋ย K,ตารางที่ 3,K-fertilizer,,kg,ผลปาล์มทะลายสด,1,t
+I004,SRC-01,ปุ๋ยอินทรีย์,ตารางที่ 3,Organic fertilizer,,kg,ผลปาล์มทะลายสด,1,t
+I005,SRC-01,วัสดุปรับปรุงดิน,ตารางที่ 3,Soil conditioners,,kg,ผลปาล์มทะลายสด,1,t
+I006,SRC-01,น้ำมันดีเซล (เครื่องจักร),ตารางที่ 3,Diesel,Fuel used for machinery,litre,ผลปาล์มทะลายสด,1,t
+I007,SRC-01,น้ำมันเบนซิน (เครื่องจักร),ตารางที่ 3,Gasoline,Fuel used for machinery,litre,ผลปาล์มทะลายสด,1,t
+I008,SRC-01,น้ำมันดีเซล (ขนส่งวัตถุดิบ),ตารางที่ 3,Diesel,Fuel used for transport,litre,ผลปาล์มทะลายสด,1,t
+I009,SRC-01,แก๊สโซฮอล์ (ขนส่งวัตถุดิบ),ตารางที่ 3,Gasohol,Fuel used for transport,kg,ผลปาล์มทะลายสด,1,t
+I010,SRC-01,LPG (ขนส่งวัตถุดิบ),ตารางที่ 3,LPG,Fuel used for transport,kg,ผลปาล์มทะลายสด,1,t
+I011,SRC-01,สารเคมีเกษตร,ตารางที่ 3,Agrochemicals used,,litre,ผลปาล์มทะลายสด,1,t
+I012,SRC-01,น้ำชลประทานที่ต้องใช้,ตารางที่ 6 คอลัมน์ Irrigation water required (m3/t FFB),Irrigation water required,,m3,ผลปาล์มทะลายสด,1,t
+I013,SRC-01,ผลปาล์มทะลายสด,หัวข้อ 3.1 (Functional unit),"Oil palm fresh fruit bunch (FFB), at farm gate",,kg,ผลปาล์มทะลายสด,1,t
+I014,SRC-04,ปุ๋ย N,หัวข้อ 2.3.1,N fertilizer,Oil palm cultivation,kg,พื้นที่ปลูก,1,ha ต่อปี
+I015,SRC-04,ไกลโฟเซต,หัวข้อ 2.3.1,Glyphosate,Oil palm cultivation,kg,พื้นที่ปลูก,1,ha ต่อปี
+I016,SRC-04,พาราควอต,หัวข้อ 2.3.1,Paraquat,Oil palm cultivation,kg,พื้นที่ปลูก,1,ha ต่อปี
+I017,SRC-04,ทางใบ (น้ำหนักแห้ง),หัวข้อ 2.3.1,Fronds (dry matter),Oil palm cultivation,t,พื้นที่ปลูก,1,ha ต่อปี
+I018,SRC-04,ผลปาล์มทะลายสด,รูปที่ 1,FFB,Transport (T),kg,ไบโอดีเซล,1000,L
+I019,SRC-04,น้ำมันดีเซล (หน่วยมวล),รูปที่ 1,Diesel,Transport (T),kg,ไบโอดีเซล,1000,L
+I020,SRC-04,ผลปาล์มทะลายสดที่ส่งถึงโรงสกัด,หัวข้อ 2.3.4,FFB delivered to mill,,kg,ผลปาล์มทะลายสดที่ส่งถึงโรงสกัด,1,t
+I021,SRC-04,ผลปาล์มทะลายสดที่ส่งถึงโรงสกัด,หัวข้อ 2.3.2,FFB,Crude palm oil production,kg,น้ำมันปาล์มดิบ,1,kg
+I022,SRC-04,เส้นใย,หัวข้อ 2.3.2,Fiber,By-products,kg,น้ำมันปาล์มดิบ,1,kg
+I023,SRC-04,กะลา,หัวข้อ 2.3.2,Shell,By-products,kg,น้ำมันปาล์มดิบ,1,kg
+I024,SRC-04,เมล็ดใน,หัวข้อ 2.3.2,Kernel,By-products,kg,น้ำมันปาล์มดิบ,1,kg
+I025,SRC-04,กากตะกอน,หัวข้อ 2.3.2,Decanter cake,By-products,kg,น้ำมันปาล์มดิบ,1,kg
+I026,SRC-04,ทะลายเปล่า,หัวข้อ 2.3.2,EFB,By-products,kg,น้ำมันปาล์มดิบ,1,kg
+I027,SRC-04,น้ำมันดีเซล (หน่วยมวล),รูปที่ 1,Diesel,Palm oil milling,kg,ไบโอดีเซล,1000,L
+I028,SRC-04,ไฟฟ้าที่ผลิตใช้เอง,รูปที่ 1,Electricity (Inh.),Palm oil milling,kWh,ไบโอดีเซล,1000,L
+I029,SRC-04,น้ำเสียจากโรงสกัด (POME) หน่วย kg,รูปที่ 1,POME,Palm oil milling,kg,ไบโอดีเซล,1000,L
+I030,SRC-04,เถ้า,รูปที่ 1,Fly ash,Palm oil milling,kg,ไบโอดีเซล,1000,L
+I031,SRC-04,น้ำมันปาล์มดิบ,หัวข้อ 2.3.2,CPO,,kg,น้ำมันปาล์มดิบ,1,t
+I032,SRC-06,น้ำจืด,ตารางที่ 2,Freshwater,Input,m3,น้ำมันปาล์มดิบ,1000,kg
+I033,SRC-06,ไอน้ำ,ตารางที่ 2,Steam,Input,kg,น้ำมันปาล์มดิบ,1000,kg
+I034,SRC-06,ไฟฟ้าจากชีวมวล (CHP),ตารางที่ 2,Electricity (CHP from biomass),Input,kWh,น้ำมันปาล์มดิบ,1000,kg
+I035,SRC-06,ไฟฟ้าจากก๊าซชีวภาพ,ตารางที่ 2,Electricity (biogas),Input,kWh,น้ำมันปาล์มดิบ,1000,kg
+I036,SRC-06,ดินขาว,ตารางที่ 2,Kaolin,Input,kg,น้ำมันปาล์มดิบ,1000,kg
+I037,SRC-06,น้ำมันปาล์มดิบ,ตารางที่ 2,CPO,Output,kg,น้ำมันปาล์มดิบ,1000,kg
+I038,SRC-06,เมล็ดใน,ตารางที่ 2,Kernel,Output,kg,น้ำมันปาล์มดิบ,1000,kg
+I039,SRC-06,ทะลายเปล่า,ตารางที่ 2,Empty fruit bunch,Output,kg,น้ำมันปาล์มดิบ,1000,kg
+I040,SRC-06,กะลา,ตารางที่ 2,Shell,Output,kg,น้ำมันปาล์มดิบ,1000,kg
+I041,SRC-06,เส้นใย,ตารางที่ 2,Fibre,Output,kg,น้ำมันปาล์มดิบ,1000,kg
+I042,SRC-06,น้ำเสียจากโรงสกัด (POME) หน่วย m3,ตารางที่ 2,Palm oil mill effluent,Output,m3,น้ำมันปาล์มดิบ,1000,kg
+I043,SRC-06,กากตะกอน,ตารางที่ 2,Decanter cake,Output,kg,น้ำมันปาล์มดิบ,1000,kg
