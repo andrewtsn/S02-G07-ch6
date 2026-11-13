@@ -1,0 +1,5 @@
+flask>=3,<4
+sentence-transformers>=3,<6
+pandas>=2,<4
+numpy>=1.26,<3
+google-genai>=1,<2
