@@ -485,7 +485,7 @@ def api_gemini():
 
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", "8080"))
+    port = int(os.environ.get("PORT", "8081"))
     print(f"เปิดเบราว์เซอร์ที่ http://127.0.0.1:{port}")
     print("โมเดลค้นหา:", EMBEDDER.name)
     print("Gemini:", f"พร้อม รุ่น {GEMINI_MODEL} รอสูงสุด {GEMINI_TIMEOUT_S:g} วินาที" if gemini_ready() else "ไม่ได้ตั้งค่าคีย์ ปุ่ม Gemini จะไม่แสดง")
